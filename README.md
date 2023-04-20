@@ -1,0 +1,2 @@
+# xss.ploit
+jaja
