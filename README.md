@@ -140,7 +140,7 @@ Percebeu? Você também pode injetar HTML e CSS que também vai funcionar, daí 
 
 HTML Injection:
 
-http://localhost/vulneravel.php?nome=&#60;h1&#62;oi eu sou uma POC de html injection&#60;/h1&#62;
+http://localhost/vulneravel.php?nome= &#60;h1&#62;oi eu sou uma POC de html injection&#60;/h1&#62;
 
 CSS Injection:
 
@@ -148,7 +148,7 @@ http://localhost/vulneravel.php?nome=<style>body{background-color: blue;}</style
 
 Aí vem nosso amigo XSS:
 
-http://localhost/vulneravel.php?nome=&#60;script>alert(1)</script&#62;
+http://localhost/vulneravel.php?nome= &#60;script>alert(1)</script&#62;
 
 AGORA, PARE E PENSE:
 
@@ -185,15 +185,15 @@ Agora tente novamente:
 
 HTML Injection:
 
-http://localhost/vulneravel.php?nome=&#60;h1&#62;oi eu sou uma POC de html injection&#60;/h1&#62;
+http://localhost/vulneravel.php?nome= &#60;h1&#62;oi eu sou uma POC de html injection&#60;/h1&#62;
 
 CSS Injection:
 
-http://localhost/vulneravel.php?nome=&#60;style&#62;body{background-color: blue;}&#60;/style&#62;
+http://localhost/vulneravel.php?nome= &#60;style&#62;body{background-color: blue;}&#60;/style&#62;
 
 XSS:
 
-http://localhost/vulneravel.php?nome=&#60;script&#62;alert(1)&#60;/script&#62;
+http://localhost/vulneravel.php?nome= &#60;script&#62;alert(1)&#60;/script&#62;
 
 
 Tenta aí...
