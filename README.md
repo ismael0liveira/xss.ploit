@@ -495,7 +495,11 @@ Com isto eu quero mostrar que XSS é muito mais do que as pessoas conhecem sobre
 E aí? O que achou? :)
 
 
+Eu encontrei uma OUTRA REFERÊNCIA INTERESSANTE QUE TAMBÉM VALIDA O QUE ESTOU FALANDO:
 
+XSS Attack (Como Funciona e Como Prevenir Ataques) -  DICIONÁRIO DO PROGRAMADOR
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2LYPyUk-L0k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
