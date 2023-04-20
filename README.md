@@ -502,6 +502,7 @@ XSS Attack (Como Funciona e Como Prevenir Ataques) -  DICIONÁRIO DO PROGRAMADOR
 LINK: https://youtu.be/2LYPyUk-L0k
 
 
+    ##ASSISTIR V
 
 [![Vídeo de POC]('https://i.ytimg.com/vi/YxEj9KbQ2YU/hqdefault.jpg')](https://youtu.be/YxEj9KbQ2YU)
 
